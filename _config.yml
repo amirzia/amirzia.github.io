@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amirmohammad Ziaei"
   avatar           : "avatar.png"
-  bio              : "Bcs. Computer Engineering \n fol \n"
+  bio              : "Bcs. Computer Engineering \n ML & Network Science"
   location         : "Tehran, Iran"
   employer         : 
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
