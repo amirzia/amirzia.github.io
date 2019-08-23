@@ -21,5 +21,5 @@ Currently I am working on a project aiming to collect quality Internet network t
 
 CV
 ====
-A detailed CV of mine can be found [here](link-to-cv).
+A detailed CV of mine can be found [here](files/Ziaei_CV.pdf).
 
