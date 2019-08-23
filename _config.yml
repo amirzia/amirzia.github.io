@@ -13,8 +13,8 @@ name                     : &name "Amirmohammad Ziaei"
 description              : &description "Personal Homepage"
 url                      : https://amirzia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-teaser                   : "avatar.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : # "academicpages/academicpages.github.io"
+teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Amirmohammad Ziaei"
   avatar           : "avatar.png"
-  bio              : "Bcs. Computer Engineering"
+  bio              : "Bcs. Computer Engineering \n fol \n"
   location         : "Tehran, Iran"
-  employer         : "SUT"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "amirzia76@gmail.com"
