@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ====
-I am a forth-year bachelor student in Sharif University of Technology majored in Computer Engineering. My main research interests are:
+I am a fourth-year bachelor student in Sharif University of Technology majored in Computer Engineering. My main research interests are:
 
 - Machine Learning and Deep Learning
 - Network Science
