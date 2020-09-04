@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Amir's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Amirmohammad Ziaei"
+name                     : &name "Amir Mohammad Ziaei"
 description              : &description "Personal Homepage"
 url                      : https://amirzia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amirmohammad Ziaei"
+  name             : "Amir Mohammad Ziaei"
   avatar           : "avatar.png"
-  bio              : "Bcs. Computer Engineering \n ML & Network Science"
+  bio              : "MSc in Complex Systems"
   location         : "Tehran, Iran"
-  employer         : "Sharif University of Technology"
+  employer         : "Aalto University"
   pubmed           : 
   googlescholar    : 
   email            : "amirzia76@gmail.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "amziaei"
   vine             :
   weibo            :
   xing             :
@@ -201,7 +201,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      # related: true
   # _pages
   - scope:
       path: ""
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
