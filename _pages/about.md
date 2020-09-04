@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ====
-I am a Master's degree student in Life Science Technologies at Aalto University majoring at Complex Systems. I have done my bachelor at Sharif University of Technology in Computer Engineering. My main research interests are:
+I am a Master's degree student in Life Science Technologies at Aalto University majoring at Complex Systems. I have done my bachelor degree at Sharif University of Technology in Computer Engineering. My main research interests are:
 
 - Machine Learning and Deep Learning
 - Network Science
