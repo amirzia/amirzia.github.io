@@ -5,16 +5,16 @@ layout: page
 
 # About
 
-I am a Software Engineer at Nokia. Prior to this role, I earned my MSc in Complex Systems from **Aalto University**'s [Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science) and my BSc in Computer Engineering from **Sharif University of Technology**'s [Computer Engineering Department](https://ce.sharif.edu/).
+Hi! I am a first-year PhD student in Computer Science at the [City University of New York](https://www.gc.cuny.edu/computer-science), advised by Prof. [Jonathan Gryak](https://idsl.gryak.org/). Prior to that I worked as a Software Engineer at [Nokia](https://www.nokia.com). I earned my MSc in Complex Systems from **Aalto University**'s [Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science) and my BSc in Computer Engineering from **Sharif University of Technology**'s [Computer Engineering Department](https://ce.sharif.edu/).
 
 Research Interests:
+- Dynamical Systems
 - Deep Learning
 - AI in Healthcare
-- Computational Social Science
 
 # News
 
-- **[Jul 2024]** Stay tuned!
+- **[Jan 2025]** I am thrilled to start my PhD in Computer Sience at CUNY, supervised by Prof. [Jonathan Gryak](https://idsl.gryak.org/)!
 
 # Publications
 
