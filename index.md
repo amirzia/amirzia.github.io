@@ -14,6 +14,7 @@ Research Interests:
 
 # News
 
+- **[Apr 2026]** I held a workshop on making reproducible and visible research at The Graduate Center, CUNY. Check out the materials [here](https://github.com/amirzia/research-workshop/tree/main).
 - **[Apr 2026]** LLM-ODE paper accepted at [GECCO-26](https://gecco-2026.sigevo.org/HomePage)!
 - **[Nov 2025]** MDBench paper accepted for an oral presentation at AAAI 2026!
 - **[Sep 2025]** New preprint is available: [MDBench: Benchmarking Data-Driven Methods for Model Discovery](https://arxiv.org/abs/2509.20529)
